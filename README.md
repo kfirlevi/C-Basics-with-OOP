@@ -23,6 +23,10 @@ The Main function is in file 'Program.cs'.
 ## Running The Code
 To run the code, please enter the `Program.cs` file. 
 ### Main Menu:
-In the main menu, you can access one of 3 sub-menus:
-#### Queue management:
-Here, you can accept a new costumer to the line (pending coronavirus rules clearance), accept a few costumers into the shop, and also check who are the costumers that currently occupy the queue
+In the main menu, you can access one of 3 sub-menus: (and also can get back to the main menu from each sub menu)
+#### Queue Management:
+Here, you can accept a new costumer to the line (pending coronavirus rules clearance), accept a few costumers into the shop, and also check who are the costumers that currently occupy the queue. Each costumer's amount and kinds of products that he purchases, are chosen randomaly. After that, the costumer will choose the register with the shortest queue.
+#### Register Management:
+Here, you can access the clients that have visited the register, and all the products that were bought. In addition, you can access workers' shifts records and also check how long the queue in each register is.
+#### Workers Management:
+This menu is designated for the workers themselves. Each worker can start his shift (pending coronavirus rules clearance), end his shift, and also look at his shifts records from the past.
