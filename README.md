@@ -7,7 +7,7 @@
     <a href="https://github.com/kfirlevi"> Kfir Levi </a> 
   </p>
 
-Learning to use object oriented programming in C#
+Learning object oriented programming in C#
 
 ## Agenda
 
