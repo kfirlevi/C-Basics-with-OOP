@@ -1,4 +1,14 @@
-# C-Sharp-Basics-with-OOP
+# C Sharp Basics with OOP
+<h1 align="center">
+  <br>
+Traffic Sign Recognition
+  <br>
+  <img src="https://github.com/kfirlevi/C-Sharp-Basics-with-OOP/blob/main/source/Grocery_store_image.jfif" height="200">
+</h1>
+  <p align="center">
+    <a href="https://github.com/kfirlevi"> Kfir Levi </a> 
+  </p>
+
 Learning to use object oriented programming in C#
 
 The Main function is in file 'Program.cs'.
